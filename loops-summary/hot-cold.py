@@ -65,7 +65,6 @@ warmer
 e
 warmer
 e
-warmer
 gotcha!
 
 """
